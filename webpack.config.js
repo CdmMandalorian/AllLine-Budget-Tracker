@@ -7,7 +7,7 @@ const config = {
     path: __dirname + "/public/dist",
     filename: "bundle.js"
   },
-  mode: "development",
+  mode: "production",
   plugins: [
     new WebpackPwaManifest({
       name: "AllLine Budget Tracker App",
