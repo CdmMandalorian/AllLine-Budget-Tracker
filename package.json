@@ -7,7 +7,6 @@
     "prestart": "webpack",
     "build": "webpack",
     "start": "node server.js",
-    "heroku-postbuild": "webpack -p",
     "seed": "node seeders/seed.js"
   },
   "repository": {
