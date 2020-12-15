@@ -4,8 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "prestart": "webpack",
-    "build": "webpack",
     "start": "node server.js",
     "seed": "node seeders/seed.js"
   },
