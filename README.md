@@ -41,17 +41,16 @@ https://www.github.com/CdmMandolorian
 Contact me at: egalindounited@gmail.com
 
 ## LIVE LINK: 
-<a href="https://git.heroku.com/all-line-budget-tracker.git">AllLine Budget Tracker</a>
+<a href="https://all-line-budget-tracker.herokuapp.com/">AllLine Budget Tracker</a>
 
 
 ## Screenshots of AllLine Budget Tracker:
-<img src="./public/assets/img/SS-1.png">
-<img src="./public/assets/img/SS-2.png">
-<img src="./public/assets/img/SS-3.png">
-<img src="./public/assets/img/SS-4.png">
+<img src="./public/assets/img/allLineBTss(1).png">
+<img src="./public/assets/img/allLineBTss(2).png">
+<img src="./public/assets/img/allLineBTss(3).png"
 
 ## LIVE VIDEO GIF's OF AllLine Budget Tracker:
-<img src="./public/assets/img/Live.gif">
+<img src="./public/assets/img/allLineBTlive.gif">
 
 
 ## Repository:  
